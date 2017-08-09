@@ -1,0 +1,551 @@
+
+.container{
+    width: 1280px;
+    height: 500px;
+    background-color: aqua;
+    padding: 0px;
+}
+.header {
+    height: 250px;
+    width: 100%;
+    background-color: black;
+    background-image: url(../image/header.png); 
+    background-size: cover;
+    background-position: center;
+    padding-top: 206px;
+    box-shadow: inset 40px -50px 50px  rgba(0,0,0,1);
+    
+
+}
+
+.logo{ 
+    width: 300px;
+    height: 50px;
+    color: #85a131;
+    font-size: 56px;
+    position: absolute;
+    font-weight: bold;
+    top: 75px;
+    left: 230px;
+background-image: url(../image/Logo.png); }
+
+.nav {width: 100%;}
+.bar{
+    width: 830px;
+    height: 45px;
+    background-image: url(../image/navigation.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    color: white;
+    padding-left: 0px;
+    
+    
+    
+
+    
+}
+.nav ul li{    
+    display: inline-block;
+margin: 0px;
+ 
+    margin-top: 3px;
+    padding: 10px;}
+.nav ul {padding-right: 0px;
+    margin-left: -15px;
+
+}
+.nav ul li:first-child{
+        width: 75px;
+    margin-left: -22px;
+    text-align: center;
+}
+.nav ul li:last-child{
+    width: 158px;
+}
+.nav ul  :hover {
+    background-color: #5e5e5e;
+    cursor: pointer;
+    height: 100%;
+}
+
+.galary {height: 250px;
+    width: 100%;    
+ background-color: white;}
+.main-cont {
+    background-image: url(../image/main-cont.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+}
+
+.main-cont .section-left, 
+.main-cont .section-right {
+    width: 260px;
+    height: 1000px;
+    background-color: ;
+    padding: 0px;
+    margin-left: 0px;/*!!!!!!!*/
+    margin-right: 0px;
+    margin-top: 30px;
+}
+.main-cont .section-left{
+  margin-left: 40px;  
+}
+.main-cont .section-right{
+    margin-right: -15px;
+}
+.main-cont .section-center {
+    width: 735px;
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 30px;
+}
+.sales>div>div{
+    width:355px;
+    height: 265px;
+    background-image: url(../image/bgforpurch.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.main-cont .section-right {   
+    float: right;
+    margin-top: 10px;
+    
+}
+div.row {width: 100%}
+
+.list-leftbar{
+    height: 390px;
+    width: 230px;
+    background-color: #262525;
+    padding: 0px;
+}
+
+.list-leftbar li {
+    list-style-type: none;
+    width: auto;
+    height: 29px;
+    margin: 1px;
+    background-color: rgb(60,60,60);
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 8px;
+}
+.list-leftbar li:hover {
+    background-color: #262525;
+   }
+.subscribe {
+    width: 230px;
+    margin-top: 20px;
+    }
+.blockinfotop { 
+    width: 230px;
+    height: 42px;
+    background-image: url(../image/leftblocktop.png); 
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+    padding-left: 20px;}
+.blockinfomain{
+    margin-top: -1px;
+    height: 200px;
+    background-image: url(../image/leftblockmain.png);
+    background-size: cover;
+    background-position: center;
+    padding: 10px
+}
+.comercial , .order, .enter, .comercial2, .opinion {
+    width: 230px;
+     margin-top: 20px;
+        }
+.comercial div div{
+    width: 155px;
+    height: 155px;
+    background-image: url(../image/batlfilvet.png);
+    margin: auto;
+}
+
+
+.order .blockinfomain{
+   height: 80px;
+   background-image:url(../image/ordersbg.png);
+}
+.order .blockinfomain div {
+    padding: 10px;
+}
+.sales{
+    color: #466e86;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.gamename{
+    margin:10px;
+}
+
+.pic{margin-left: 10px;
+    width: 175px;
+    height: 115px;
+    background-image: url(../image/batfil.png);
+     background-size: cover;
+    background-position: center;
+}
+.purchitem2 .pic{
+    background-image: url(../image/deusex.png)
+}
+.purchitem3 .pic{
+    background-image: url(../image/dirt3.png)
+}
+.purchitem4 .pic{
+    background-image: url(../image/infamous.png)
+}
+.purchitem5 .pic{
+    background-image: url(../image/batfil.png)
+}
+.purchitem6 .pic{
+    background-image: url(../image/deusex.png)
+}
+.stars{ width: 130px;
+    margin-left: 10px;
+     float:right;
+     padding: 0px;}
+.pricetag{
+    font-size: 14px;
+    color: black;
+}
+.pricetag b{
+    font-size: 16px;
+    font-weight: bold;
+}
+.fivestars{
+    margin-top: 20px;
+}
+.fivestars img:not(:first-child){
+    margin-left: -6px;
+}
+.buybasket{
+   margin-top: 26px; 
+}
+.buttonbuy {
+    width: 60px;
+    height: 25px;
+    background-image: url(../image/buy.png);
+    background-size: cover;
+    background-position: center;
+    font-size: 14px;
+}
+.buttonbasket {
+    width: 70px;
+    height: 25px;
+    background-image: url(../image/basket.png);
+    background-size: cover;
+    background-position: center;
+}
+hr {
+    width: 355px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: -10px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.discribe {
+    font-size: 12px;
+    color: black;
+    font-family: Arial;
+}
+.enter .blockinfomain .form-horizontal .form-group {
+    margin-right: 0px;
+    margin-left: -40px;
+     
+}
+.enter .blockinfomain .form-horizontal .form-group .checkbox{
+    font-size: 12px;
+    font-family: Arial;
+}
+.enter .btn btn-default{}
+.galary{
+    background-image: url(../image/galarybg.png);
+       background-size: cover;
+    background-position: center;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    background-image: url(../image/footer.png);
+     background-size: cover;
+    background-position: center;
+    
+}
+.galary .row{
+     margin: auto;
+        padding: 30px 30px 100px 75px;
+}
+.galary .row .col-md-2 {
+    width: 235px;
+    height: 185px;
+    margin-left: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 0px;
+    
+    
+    
+}
+#left {
+    width: 55px;
+    height: 185px;
+    background-image: url(../image/switchleft.png);
+    background-repeat: no-repeat ;
+    background-size:auto;
+    background-position: center;
+    border: none;
+}
+#right {
+    width: 55px;
+    height: 185px;
+    background-image: url(../image/switchright.png);
+    background-repeat: no-repeat ;
+    background-size:auto;
+    background-position: center;
+    border: none;
+}
+.slide1{
+    
+    background-image: url(../image/gal1.png);
+    background-size:cover;
+    background-position: center;
+   
+}
+.slide2{
+    background-image: url(../image/gal2.png);
+    background-size:cover;
+    background-position: center
+}
+.slide3{
+    background-image: url(../image/gal3.png);
+    background-size:cover;
+    background-position: center
+}
+.slide4{
+    background-image: url(../image/gal4.png);
+    background-size:cover;
+    background-position: center
+}
+.prozoro {
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    position: absolute; bottom: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: aliceblue;
+    font-size: 12px;
+    font-family: Impact;
+    
+  
+}
+.prozoro a{
+    color: aliceblue;
+    text-decoration: underline;
+}
+#slide3text{
+    font-family: Arial;
+    font-size: 11px;
+}
+.searchinsite{
+    width:200px;
+    background-image: url(../image/searchbutton.png); 
+    background-size: cover;
+    background-position: center;
+    border: none;
+}
+.buttonbuy , .buttonbasket {
+    display: inline-block;
+    font-size: 12px;
+    text-align: center;
+    font-family: Arial;
+    text-align: center;
+    vertical-align: middle;
+    color:white;
+    padding-top: 3px;
+    position: absolute;
+    height: 30px;
+    bottom: -27px;
+   padding-top: 5px;
+    width: 65px;
+   
+  user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+
+}
+.buttonbuy:active , .buttonbasket:active { 
+height: 27px;
+}
+.buttonbasket{
+    padding-top: 5px;
+    height: 30px;
+    left: 65px;
+    bottom: -26px;
+    width: 75px;
+}
+.comercial2 .blockinfomain{
+    background-image: url(../image/com2bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 180px;
+}
+.comercial2 .blockinfomain div{
+    background-image: url(../image/mafia.png);
+    height: 155px;
+    width: 150px;
+    margin: auto;
+    
+}
+.centralsearch {
+    margin-left: -5px;
+}
+#leInputName{
+    width: 510px;
+    background-image: url(../image/search.png);   
+    background-repeat: no-repeat; /*Убираем повтор изображения*/   
+    background-position: 10px; /*Позиционируем*/   
+    outline: none; /*убираем стандартную обводку браузера*/   
+    -moz-border-radius: 5px; /*закругляем углы для Mozilla*/  
+    -webkit-border-radius: 5px; /*закругляем углы для Chrome, Safari*/   
+    border-radius: 5px; /*закругляем углы для остальных браузеров*/  
+    padding-left: 35px; /*отступ слева от ввода, чтобы текст не был на картинке(выбирать по размеру картинки)*/  
+    height: 35px; /*высота строки ввода*/   
+    font-size: 14px; /*размер шрифта*/
+}
+.sales {
+    margin-top: 0px;
+}
+.opinion .blockinfomain{
+    height: 225px;
+    background-image: url(../image/opinionbg-.png);
+    background-size: cover;
+    background-position: center;
+    
+}
+.castumers{
+    font-family: Tahoma;
+    font-size: 12px;
+}
+.thinline{
+    width: 1280px;
+    height: 5px;
+    background-color:#5d5d5d;
+    position: absolute;
+    top:245px;
+    opacity: 0.3;
+    
+}
+.graythinline{
+    width: 1280px;
+    height: 3px;
+    background-color: #a6a6a6;
+    position: absolute;
+}
+.namberstars{
+    font-size: 12px;
+    color:grey;
+}
+.leftcolcheck{
+    padding-left: 5px;
+    margin:  0px;
+    font-weight: normal;
+    font-size: 14px;
+}
+.checkboxsubcribe{
+    width: 13px;
+    height: 13px;
+    background-image: url(../image/checkno.png);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin-bottom: 0px;
+      }
+.checkboxsubcribe:nth-child(1){
+    background-image: url(../image/checkyes.png);
+}
+.checkask{
+    display:inline-flex;
+    margin-left: 10px;
+}
+.subscribeinput{
+    width: 130px;
+    outline: none;
+    border: none;
+}
+.divforsubscribeinput{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 200px;
+    height: 35px;
+    padding: 4px;
+background-color: white;
+height: 40px;
+border: 1px solid #bebdbd;
+border-radius: 3px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);}
+.okinside {
+    width: 50px;
+    height: 32px;
+    background-image: url(../image/ok.png);
+    background-size: cover;
+    background-position: center;
+    outline: none;
+    border: none;
+    display: inline-block;
+    padding-top: 5px;
+    text-align: center;
+    user-select: none;
+    color: white;
+    font-family: Arial;
+}
+.okinside:active{
+    height: 33px; 
+    
+}
+#enterin1, #enterin2  {
+    margin-right: -10px;
+    margin-left: -55px;
+}
+.remember{
+        margin-left: 10px;
+       margin-bottom: -2px;
+      font-family: Tahoma;
+    font-size: 12px;
+    color: grey;
+}
+.regfog{
+    font-family: Tahoma;
+    font-size: 12px;
+    color: grey;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 30px;
+    padding: 5px;
+   
+}
+.regfog:last-child{ border-left: 1px solid gray;}
+.nameopinion {color:#205879};
+#allopi {
+   
+    margin-left: 120px;
+    margin-top: -15px;
+     font-family: Tahoma;
+  }
+.checkboxsubcribe{
+    display: none;
+}

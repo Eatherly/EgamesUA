@@ -1,0 +1,67 @@
+<sales>  
+     
+      <rex>
+        <gamename>GAME1</gamename>
+        <price>111</price>
+        <picture> url(../image/infamous.png)</picture>
+        <text>Lorem1 ipsum dolor sit amet, consectetur adipisicing elit. Dicta excepturi, asperiores nemo blanditiis quo officia dolores modi temporibus ut eius consectetur rem quisquam facere, quibusdam inventore reprehenderit non accusantium at.</text>
+        <star>../image/stargood.png</star>
+        <nuberofstars>1</nuberofstars>
+      </rex>
+      
+      <rex>
+        <gamename>GAME2</gamename>
+        <price>222</price>
+        <picture> url(../image/infamous.png)</picture>
+        <text>Lorem2 ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati quas harum ad asperiores voluptas, numquam tempora maxime, dolores, odio aliquam dolorem consectetur doloremque. Facere, illum, repellat! Esse architecto vitae, ad!</text>
+        <star>../image/stargood.png</star>
+        <nuberofstars>5</nuberofstars>
+      </rex>
+      
+      <rex>
+        <gamename>GAME3</gamename>
+        <price>333</price>
+        <picture> url(../image/infamous.png)</picture>
+        <text>Lorem3 ipsum dolor sit amet, consectetur adipisicing elit. Similique doloremque cupiditate inventore dolor, voluptatum deleniti, et alias asperiores corrupti at! Iste iure dolorem beatae, dolorum ratione officia corporis inventore laboriosam!</text>
+        <star>../image/stargood.png</star>
+        <nuberofstars>4</nuberofstars>
+      </rex>
+      
+      <rex>
+       <gamename>GAME4</gamename>
+       <price>444</price>
+       <picture> url(../image/deusex.png)</picture>
+       <text>Строго по традиции, в качестве сердцевины Battlefield 3
+       выступают все те же многопользовательские сражеия,
+       расчитаные на 64 пользователя и дополнительные
+       знообразной техникой</text>
+       <star>../image/stargood.png</star>
+       <nuberofstars>4</nuberofstars>
+      </rex>
+      
+      <rex>
+       <gamename>GAME5</gamename>
+       <price>555</price>
+       <picture> url(../image/infamous.png)</picture>
+       <text>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit unde, eligendi ratione, possimus neque quasi perspiciatis vero qui magnam rerum voluptas ut deserunt enim provident vitae quaerat. Eos expedita, explicabo.</text>
+       <star>../image/stargood.png</star>
+       <nuberofstars>3</nuberofstars>
+      </rex>
+      
+      <rex>
+       <gamename>GAME6</gamename>
+       <price>666</price>
+       <picture> url(../image/mafia.png)</picture>
+       <text>Строго по традиции, в качестве сердцевины Battlefield 3
+       выступают все те же многопользовательские сражеия,
+       расчитаные на 64 пользователя и дополнительные
+       знообразной техникой</text>
+       <star>../image/stargood.png</star>
+       <nuberofstars>2</nuberofstars>
+      </rex>
+  
+</sales>
+
+       
+
+       

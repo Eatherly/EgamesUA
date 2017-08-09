@@ -1,0 +1,56 @@
+[
+{
+	"gamename":"GAME1",
+	"price" : "111",
+	"pricture" : "url(../image/batfil.png)",
+	"text" : "Lorem1 ipsum dolor sit amet, consectetur adipisicing elit. Placeat nemo, id expedita at molestias hic, odit amet officiis laboriosam vero optio inventore dolorum accusantium fugiat ut blanditiis accusamus, ratione doloribus.",
+	"star" : "../image/stargood.png",
+	"numberofstars" : "1",
+	"status" : "new"
+},
+{
+	"gamename":"GAME12",
+	"price" : "222",
+	"pricture" : "url(../image/deusex.png)",
+	"text" : "Lorem2 ipsum dolor sit amet, consectetur adipisicing elit. Placeat nemo, id expedita at molestias hic, odit amet officiis laboriosam vero optio inventore dolorum accusantium fugiat ut blanditiis accusamus, ratione doloribus.",
+	"star" : "../image/stargood.png",
+	"numberofstars" : "2",
+	"status" : "new"
+},
+{
+	"gamename":"GAME123",
+	"price" : "333",
+	"pricture" : "url(../image/dirt3.png)",
+	"text" : "Lorem3 ipsum dolor sit amet, consectetur adipisicing elit. Placeat nemo, id expedita at molestias hic, odit amet officiis laboriosam vero optio inventore dolorum accusantium fugiat ut blanditiis accusamus, ratione doloribus.",
+	"star" : "../image/stargood.png",
+	"numberofstars" : "3",
+	"status" : "new"
+},
+{
+	"gamename":"GAME1234",
+	"price" : "444",
+	"pricture" : "url(../image/infamous.png)",
+	"text" : "Lorem4 ipsum dolor sit amet, consectetur adipisicing elit. Placeat nemo, id expedita at molestias hic, odit amet officiis laboriosam vero optio inventore dolorum accusantium fugiat ut blanditiis accusamus, ratione doloribus.",
+	"star" : "../image/stargood.png",
+	"numberofstars" : "4",
+	"status" : "classic"
+},
+{
+	"gamename":"GAME12345",
+	"price" : "555",
+	"pricture" : "url(../image/infamous.png)",
+	"text" : "Lorem5 ipsum dolor sit amet, consectetur adipisicing elit. Placeat nemo, id expedita at molestias hic, odit amet officiis laboriosam vero optio inventore dolorum accusantium fugiat ut blanditiis accusamus, ratione doloribus.",
+	"star" : "../image/stargood.png",
+	"numberofstars" : "5",
+	"status" : "classic"
+},
+{
+	"gamename":"GAME123456",
+	"price" : "666",
+	"pricture" : "url(../image/batfil.png)",
+	"text" : "Lorem6 ipsum dolor sit amet, consectetur adipisicing elit. Placeat nemo, id expedita at molestias hic, odit amet officiis laboriosam vero optio inventore dolorum accusantium fugiat ut blanditiis accusamus, ratione doloribus.",
+	"star" : "../image/stargood.png",
+	"numberofstars" : "1",
+	"status" : "sale"
+}
+]

@@ -1,0 +1,22 @@
+[
+{
+	"slidebg" : " url(../image/gal1.png)",
+	"slidetext" : "24.06.2011 &nbsp <a href='#'> &nbspАнонс: &nbsp Awesomenauts</a>"
+},
+{
+	"slidebg" : " url(../image/gal2.png)",
+	"slidetext" : " 24.06.2011 &nbsp <a href='#'> &nbsp  Обновление &nbsp Crysis 2</a>"
+},
+{
+	"slidebg" : " url(../image/gal3.png)",
+	"slidetext" : "24.06.2011 &nbsp <a href='#'>  Игра Ratchet & Clank All 4 One  датирована</a> <p id='slide3text'> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ullam numquam facilis sapiente soluta ex saepe </p>"
+},
+{
+	"slidebg" : " url(../image/gal4.png)",
+	"slidetext" : "24.06.2011 &nbsp <a href='#'> &nbspАнонс:&nbsp Awesomenauts</a>"
+},
+{
+	"slidebg" : " url(../image/gal5.png)",
+	"slidetext" : "24.06.2011 &nbsp <a href='#'> &nbspАнонс: &nbsp Awesomenauts</a>"
+}
+]
